@@ -13,9 +13,9 @@ Before running tests, make sure you have:
 - [Git](https://git-scm.com/downloads) installed.
 
 ## Setup
-1. Run the Cube game from the Estoty repository
+1. Run the game from the Estoty repository
 2. Inject AltTester into the game
-3. Run the tests in Visual Studio
+3. Run the tests in Unity Hub
 
 ## Test Cases
 - TestButtonIsInteractable - Checks if button is clickable
